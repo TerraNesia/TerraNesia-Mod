@@ -1,0 +1,4 @@
+author = Reynardo
+version = 0.1
+displayName = TerraNesia Server Mod
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*

@@ -1,0 +1,12 @@
+B:\TerraNesiaMod\bin\Debug\TerraNesiaMod.dll
+B:\TerraNesiaMod\bin\Debug\TerraNesiaMod.pdb
+B:\TerraNesiaMod\bin\Debug\Microsoft.Xna.Framework.dll
+B:\TerraNesiaMod\bin\Debug\Microsoft.Xna.Framework.Game.dll
+B:\TerraNesiaMod\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+B:\TerraNesiaMod\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+B:\TerraNesiaMod\bin\Debug\Terraria.exe
+B:\TerraNesiaMod\obj\Debug\TerraNesiaMod.csprojResolveAssemblyReference.cache
+B:\TerraNesiaMod\obj\Debug\TerraNesiaMod.csproj.CoreCompileInputs.cache
+B:\TerraNesiaMod\obj\Debug\TerraNesiaMod.csproj.CopyComplete
+B:\TerraNesiaMod\obj\Debug\TerraNesiaMod.dll
+B:\TerraNesiaMod\obj\Debug\TerraNesiaMod.pdb
